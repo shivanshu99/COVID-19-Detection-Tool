@@ -338,7 +338,7 @@ select {
   
   .text-input {
     position: relative;
-    margin-top: 50px;
+    margin-top: 51px;
   }
   .text-input input[type="text"] {
     display: inline-block;
